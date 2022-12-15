@@ -1,4 +1,4 @@
-# We are updated, please re-download PitcoinCLI and PitcoinWalletLinux. And re-mine your new Pitcoin. 
+# Pitcoin Network updated as on 12/15/2022, please re-download PitcoinCLI and PitcoinWallet. And re-mine your new Pitcoin. 
 # PitcoinCLI(command line interface) Updated : miner, pitcoind(node), simplewallet
 # We are going to store and use Pitcoin inside computer of computer (sounds more secure, haha). To get start, please follow below procedure:
 1. Download and Install Oracle VM VirtualBOX: https://www.virtualbox.org/wiki/Downloads
